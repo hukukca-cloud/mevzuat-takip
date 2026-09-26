@@ -75,7 +75,9 @@ def clean(text: str) -> str:
 
 
 def tr_lower(s: str) -> str:
-    return s.replace("I", "ı").replace("İ", "i").lower()
+    s = s.replace("I", "ı").replace("İ", "i").lower()
+    # Şapkalı harfler (İLÂN / ilan) karşılaştırmada eşit sayılır
+    return s.translate(str.maketrans("âîû", "aiu"))
 
 
 def keyword_hits(text: str, keywords: list[str]) -> list[str]:
@@ -95,7 +97,8 @@ def is_heading(txt: str) -> bool:
 
 def parse_fihrist(html: str, page_url: str, keywords: list[str], skip_sections: list[str]) -> dict:
     soup = BeautifulSoup(html, "html.parser")
-    for t in soup(["script", "style", "noscript", "header", "footer", "nav"]):
+    # select/option: tarih ve mükerrer seçim kutuları (günün içeriği değil)
+    for t in soup(["script", "style", "noscript", "header", "footer", "nav", "select", "option"]):
         t.decompose()
 
     full_text = clean(soup.get_text(" "))
