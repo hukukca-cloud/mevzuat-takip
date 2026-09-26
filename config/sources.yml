@@ -1,0 +1,59 @@
+# Mevzuat Takip – kaynak ve filtre ayarları
+# Resmî Gazete toplayıcıda sabittir; aşağıdaki "sources" duyuru/bülten sayfaları içindir.
+
+# Resmî Gazete'de atlanacak bölümler (ilanlar çok hacimli olduğu için varsayılan olarak dışarıda)
+rg_skip_sections:
+  - "İLAN BÖLÜMÜ"
+
+# Başlıkta geçtiğinde kayda işaret konacak anahtar kelimeler (filtre değil, önceliklendirme içindir)
+keywords:
+  - kripto
+  - sermaye piyasası
+  - Sermaye Piyasası Kurulu
+  - Mali Suçları Araştırma
+  - suç gelirlerinin aklanması
+  - terörün finansmanı
+  - Merkez Bankası
+  - ödeme hizmet
+  - elektronik para
+  - kişisel veri
+  - anonim şirket
+  - Türk Ticaret Kanunu
+  - Türk Borçlar Kanunu
+  - Hukuk Muhakemeleri
+  - Ceza Muhakemesi
+  - İş Kanunu
+  - Bankacılık
+  - saklama
+  - Borsa İstanbul
+  - Takasbank
+
+# Duyuru / bülten sayfaları (fark takibi). URL'leri tarayıcıda doğrulayıp enabled: true yapın.
+# selector: bağlantıların bulunduğu alanın CSS seçicisi (isteğe bağlı; boşsa tüm sayfa)
+# link_pattern: yalnızca bu düzenli ifadeye uyan bağlantılar dikkate alınır (isteğe bağlı)
+sources:
+  - id: spk_duyuru
+    name: SPK – Duyurular
+    url: "https://spk.gov.tr/"
+    enabled: false
+  - id: spk_bulten
+    name: SPK – Haftalık Bülten
+    url: "https://spk.gov.tr/"
+    link_pattern: "(?i)bulten|bülten"
+    enabled: false
+  - id: masak
+    name: MASAK – Duyurular
+    url: "https://masak.hmb.gov.tr/"
+    enabled: false
+  - id: tcmb
+    name: TCMB – Duyurular
+    url: "https://www.tcmb.gov.tr/"
+    enabled: false
+  - id: tspb
+    name: TSPB – Duyurular
+    url: "https://www.tspb.org.tr/"
+    enabled: false
+  - id: kvkk
+    name: KVKK – Duyurular
+    url: "https://www.kvkk.gov.tr/"
+    enabled: false

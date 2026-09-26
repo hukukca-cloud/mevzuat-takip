@@ -1,0 +1,32 @@
+name: Mevzuat toplama
+
+on:
+  schedule:
+    - cron: "0 2 * * *"   # 02:00 UTC = 05:00 TSİ (06:00 özetinden önce tampon süre)
+  workflow_dispatch: {}    # Actions sekmesinden elle çalıştırma
+
+permissions:
+  contents: write
+
+concurrency:
+  group: mevzuat-toplama
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: python scripts/collect.py
+      - name: Sonuçları kaydet
+        run: |
+          git config user.name "mevzuat-bot"
+          git config user.email "mevzuat-bot@users.noreply.github.com"
+          git add data state
+          git diff --cached --quiet || git commit -m "Toplama: $(TZ=Europe/Istanbul date +%F)"
+          git push
