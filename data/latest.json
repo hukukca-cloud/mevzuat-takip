@@ -1,6 +1,6 @@
 {
   "tarih": "2026-09-26",
-  "olusturulma": "2026-09-26T14:31:13+03:00",
+  "olusturulma": "2026-09-26T14:33:08+03:00",
   "resmi_gazete": {
     "kaynak": "Resmî Gazete",
     "sayilar": [
@@ -50,55 +50,10 @@
             "url": "https://www.resmigazete.gov.tr/eskiler/2026/09/20260926-5.pdf",
             "mukerrer": false,
             "anahtar_kelime": []
-          },
-          {
-            "bolum": "İLÂN BÖLÜMÜ",
-            "tur": null,
-            "baslik": "a - Yargı İlânları",
-            "url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/09/20260926-2.htm",
-            "mukerrer": false,
-            "anahtar_kelime": []
-          },
-          {
-            "bolum": "İLÂN BÖLÜMÜ",
-            "tur": null,
-            "baslik": "b - Artırma, Eksiltme ve İhale İlânları",
-            "url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/09/20260926-3.htm",
-            "mukerrer": false,
-            "anahtar_kelime": []
-          },
-          {
-            "bolum": "İLÂN BÖLÜMÜ",
-            "tur": null,
-            "baslik": "c - Çeşitli İlânlar",
-            "url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/09/20260926-4.htm",
-            "mukerrer": false,
-            "anahtar_kelime": []
-          },
-          {
-            "bolum": "İLÂN BÖLÜMÜ",
-            "tur": null,
-            "baslik": "T.C. Merkez Bankasınca Belirlenen Döviz Kurları ve Devlet İç Borçlanma Senetlerinin Günlük Değerleri",
-            "url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/09/20260926-5.htm",
-            "mukerrer": false,
-            "anahtar_kelime": [
-              "Merkez Bankası"
-            ]
           }
         ],
         "notes": [
-          "1. Mükerrer",
-          "10. Mükerrer",
-          "2. Mükerrer",
-          "3. Mükerrer",
-          "4. Mükerrer",
-          "5. Mükerrer",
-          "6. Mükerrer",
-          "7. Mükerrer",
-          "8. Mükerrer",
-          "9. Mükerrer",
-          "Mükerrer",
-          "Mükerrer Değil"
+          "Mükerrer"
         ]
       }
     ]
