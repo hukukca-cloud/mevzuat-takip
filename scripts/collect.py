@@ -144,7 +144,8 @@ def parse_fihrist(html: str, page_url: str, keywords: list[str], skip_sections: 
                 section, subsection = txt, None
             else:
                 subsection = txt
-        elif "mükerrer" in tr_lower(txt):
+        elif "mükerrer" in tr_lower(txt) and len(txt) >= 15:
+            # tek kelimelik "Mükerrer" sekme/buton etiketleri not sayılmaz
             notes.append(txt)
 
     status = "ok" if items or header else "bos_veya_ayristirilamadi"
