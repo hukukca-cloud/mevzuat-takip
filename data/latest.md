@@ -1,9 +1,8 @@
 # Mevzuat Takip – Ham Toplama (2026-09-26)
 
-Oluşturulma: 2026-09-26T14:33:08+03:00
+Oluşturulma: 2026-09-26T14:34:31+03:00
 
 ## Resmî Gazete 2026-09-26 – sayı 33382 – durum: ok
-> Not: Mükerrer
 
 **YÜRÜTME VE İDARE BÖLÜMÜ / HÂKİMLER VE SAVCILAR KURULU KARARI**
 - [Hâkimler ve Savcılar Kuruluna Ait Karar](https://www.resmigazete.gov.tr/eskiler/2026/09/20260926-1.pdf)
