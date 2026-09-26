@@ -40,12 +40,12 @@ Bir gün kaçırılırsa, sonraki çalıştırma en fazla 7 gün geriye giderek 
 
 ## Claude zamanlanmış görev talimatı (06:00)
 
-`<KULLANICI>` kısmını kendi GitHub kullanıcı adınızla değiştirin.
+`hukukca-cloud` kısmını kendi GitHub kullanıcı adınızla değiştirin.
 
 ```
 Görev: Günlük Mevzuat Takip Bülteni
 
-1) Şu dosyayı oku: https://raw.githubusercontent.com/<KULLANICI>/mevzuat-takip/main/data/latest.md
+1) Şu dosyayı oku: https://raw.githubusercontent.com/hukukca-cloud/mevzuat-takip/main/data/latest.md
    Dosyadaki "Oluşturulma" tarihi bugün değilse bunu bültenin başında açıkça belirt.
 2) Resmî Gazete kayıtlarından yalnızca şu alanları etkileyenleri seç: kripto varlıklar ve KVHS,
    sermaye piyasası (SPK), SGA/TF (MASAK), TCMB ödeme düzenlemeleri, KVKK, anonim şirketleri
