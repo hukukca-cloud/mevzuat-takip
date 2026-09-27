@@ -1,27 +1,17 @@
-# Mevzuat Takip – Ham Toplama (2026-09-26)
+# Mevzuat Takip – Ham Toplama (2026-09-27)
 
-Oluşturulma: 2026-09-26T14:48:54+03:00
+Oluşturulma: 2026-09-27T05:14:51+03:00
 
-## Resmî Gazete 2026-09-25 – sayı 33381 – durum: ok
-
-**YÜRÜTME VE İDARE BÖLÜMÜ / HÂKİMLER VE SAVCILAR KURULU KARARI**
-- [Hâkimler ve Savcılar Kuruluna Ait Karar](https://www.resmigazete.gov.tr/eskiler/2026/09/20260925-1.pdf)
+## Resmî Gazete 2026-09-27 – sayı 33383 – durum: ok
 
 **YÜRÜTME VE İDARE BÖLÜMÜ / YÖNETMELİKLER**
-- [Uzaktan Çalışma Yönetmeliğinde Değişiklik Yapılması Hakkında Yönetmelik](https://www.resmigazete.gov.tr/eskiler/2026/09/20260925-2.htm)
-- [Tokat Gaziosmanpaşa Üniversitesi Tıp Fakültesi Eğitim-Öğretim ve Sınav Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik](https://www.resmigazete.gov.tr/eskiler/2026/09/20260925-3.htm)
+- [İstanbul Gedik Üniversitesi Kaynak ve Malzeme Teknolojileri Uygulama ve Araştırma Merkezi Yönetmeliği](https://www.resmigazete.gov.tr/eskiler/2026/09/20260927-1.htm)
+- [İstanbul Gedik Üniversitesi Robot ve Eklemeli İmalat Teknolojileri Uygulama ve Araştırma Merkezi Yönetmeliği](https://www.resmigazete.gov.tr/eskiler/2026/09/20260927-2.htm)
 
-## Resmî Gazete 2026-09-26 – sayı 33382 – durum: ok
-
-**YÜRÜTME VE İDARE BÖLÜMÜ / HÂKİMLER VE SAVCILAR KURULU KARARI**
-- [Hâkimler ve Savcılar Kuruluna Ait Karar](https://www.resmigazete.gov.tr/eskiler/2026/09/20260926-1.pdf)
-
-**YÜRÜTME VE İDARE BÖLÜMÜ / YÖNETMELİKLER**
-- [Ticaret Bakanlığı Disiplin Amirleri Yönetmeliği](https://www.resmigazete.gov.tr/eskiler/2026/09/20260926-2.htm)
-- [Atatürk Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim ve Sınav Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik](https://www.resmigazete.gov.tr/eskiler/2026/09/20260926-3.htm)
-- [Türk Hava Kurumu Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim ve Sınav Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik](https://www.resmigazete.gov.tr/eskiler/2026/09/20260926-4.htm)
-
-**YÜRÜTME VE İDARE BÖLÜMÜ / KURUL KARARI**
-- [Enerji Piyasası Düzenleme Kurulunun 24/09/2026 Tarihli ve 14895 Sayılı Kararı](https://www.resmigazete.gov.tr/eskiler/2026/09/20260926-5.pdf)
+**YÜRÜTME VE İDARE BÖLÜMÜ / TEBLİĞLER**
+- [2026 Yılı Ağustos Ayına Ait Dahilde İşleme İzin Belgelerinin (D1) Listesi](https://www.resmigazete.gov.tr/eskiler/2026/09/20260927-3.pdf)
+- [2026 Yılı Ağustos Ayına Ait Yurt İçi Satış ve Teslim Belgelerinin (D3) Listesi](https://www.resmigazete.gov.tr/eskiler/2026/09/20260927-4.pdf)
+- [2026 Yılı Ağustos Ayına Ait Hariçte İşleme İzin Belgelerinin (H1) Listesi](https://www.resmigazete.gov.tr/eskiler/2026/09/20260927-5.pdf)
+- [2026 Yılı Ağustos Ayına Ait Firma Talebine İstinaden İptal Edilen Dahilde İşleme İzin Belgeleri Listesi](https://www.resmigazete.gov.tr/eskiler/2026/09/20260927-6.pdf)
 
 ## Kurum sayfaları
