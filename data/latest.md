@@ -1,16 +1,18 @@
-# Mevzuat Takip – Ham Toplama (2026-09-29)
+# Mevzuat Takip – Ham Toplama (2026-09-30)
 
-Oluşturulma: 2026-09-29T05:14:37+03:00
+Oluşturulma: 2026-09-30T05:15:24+03:00
 
-## Resmî Gazete 2026-09-29 – sayı 33385 – durum: ok
+## Resmî Gazete 2026-09-30 – sayı 33386 – durum: ok
 
 **YÜRÜTME VE İDARE BÖLÜMÜ / YÖNETMELİKLER**
-- [Giresun Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim ve Sınav Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik](https://www.resmigazete.gov.tr/eskiler/2026/09/20260929-1.htm)
-- [Karabük Üniversitesi Çocuk Gelişimi Uygulama ve Araştırma Merkezi Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik](https://www.resmigazete.gov.tr/eskiler/2026/09/20260929-2.htm)
+- [Bolu Abant İzzet Baysal Üniversitesi Yabancı Diller Yüksekokulu Yabancı Dil Eğitim-Öğretim ve Sınav Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik](https://www.resmigazete.gov.tr/eskiler/2026/09/20260930-1.htm)
+- [Koç Üniversitesi Lisans ve Ön Lisans Eğitim ve Öğretim Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik](https://www.resmigazete.gov.tr/eskiler/2026/09/20260930-2.htm)
+
+**YÜRÜTME VE İDARE BÖLÜMÜ / TEBLİĞ**
+- [1416 Sayılı Kanun ve Buna Bağlı Yönetmelik Uyarınca Yurt Dışında Lisans ve Lisansüstü Öğrenim Gören Öğrencilere Yapılacak Ödemeler Hakkında Tebliğ](https://www.resmigazete.gov.tr/eskiler/2026/09/20260930-3.htm)
 
 **YARGI BÖLÜMÜ / ANAYASA MAHKEMESİ KARARLARI**
-- [Anayasa Mahkemesinin 8/4/2026 Tarihli ve 2022/90210 Başvuru Numaralı Kararı](https://www.resmigazete.gov.tr/eskiler/2026/09/20260929-3.pdf)
-- [Anayasa Mahkemesinin 8/4/2026 Tarihli ve 2022/104137 Başvuru Numaralı Kararı](https://www.resmigazete.gov.tr/eskiler/2026/09/20260929-4.pdf)
-- [Anayasa Mahkemesinin 9/4/2026 Tarihli ve 2022/44330 Başvuru Numaralı Kararı](https://www.resmigazete.gov.tr/eskiler/2026/09/20260929-5.pdf)
+- [Anayasa Mahkemesinin 4/6/2026 Tarihli ve E: 2025/156, K: 2026/131 Sayılı Kararı](https://www.resmigazete.gov.tr/eskiler/2026/09/20260930-4.pdf)
+- [Anayasa Mahkemesinin 8/9/2026 Tarihli ve E: 2026/57, K: 2026/198 Sayılı Kararı](https://www.resmigazete.gov.tr/eskiler/2026/09/20260930-5.pdf)
 
 ## Kurum sayfaları
