@@ -1,21 +1,18 @@
-# Mevzuat Takip – Ham Toplama (2026-10-02)
+# Mevzuat Takip – Ham Toplama (2026-10-03)
 
-Oluşturulma: 2026-10-02T05:15:35+03:00
+Oluşturulma: 2026-10-03T05:16:07+03:00
 
-## Resmî Gazete 2026-10-02 – sayı 33388 – durum: ok
+## Resmî Gazete 2026-10-03 – sayı 33389 – durum: ok
 
 **YÜRÜTME VE İDARE BÖLÜMÜ / YÖNETMELİKLER**
-- [Turizm Amaçlı Sportif Faaliyet Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik](https://www.resmigazete.gov.tr/eskiler/2026/10/20261002-1.htm)
-- [Nükleer Tesisler, Radyasyon Tesisleri ve Radyoaktif Atık Tesislerinde Yönetim Sistemi Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik](https://www.resmigazete.gov.tr/eskiler/2026/10/20261002-2.htm)
-- [Nükleer Tesislere İlişkin Yetkilendirmeler Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik](https://www.resmigazete.gov.tr/eskiler/2026/10/20261002-3.htm)
-- [Uydu ve Yer Tabanlı Radyo Seyrüsefer Sistemleri ve Gözetim Sistemleri Uçuş Kontrol Yönetmeliği (SHY-UK)](https://www.resmigazete.gov.tr/eskiler/2026/10/20261002-4.htm)
-- [Noterlik Kanunu Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik](https://www.resmigazete.gov.tr/eskiler/2026/10/20261002-5.htm)
+- [Rüzgar Kaynağına Dayalı Elektrik Üretimi Başvurularının Teknik Değerlendirmesi Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik](https://www.resmigazete.gov.tr/eskiler/2026/10/20261003-1.htm)
+- [Tarım Ürünleri Lisanslı Depoculuk Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik](https://www.resmigazete.gov.tr/eskiler/2026/10/20261003-2.htm)
+- [Sosyal Güvenlik Kurumu İlaç Geri Ödeme Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik](https://www.resmigazete.gov.tr/eskiler/2026/10/20261003-3.htm)
+- [KOSGEB İnsan Kaynakları Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik](https://www.resmigazete.gov.tr/eskiler/2026/10/20261003-4.htm)
+- [Küçük ve Orta Ölçekli İşletmeleri Geliştirme ve Destekleme İdaresi Başkanlığı Disiplin Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik](https://www.resmigazete.gov.tr/eskiler/2026/10/20261003-5.htm)
+- [Türk Mühendis ve Mimar Odaları Birliği Şehir Plancıları Odası Ana Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik](https://www.resmigazete.gov.tr/eskiler/2026/10/20261003-6.htm)
 
-**YÜRÜTME VE İDARE BÖLÜMÜ / TEBLİĞLER**
-- [Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ](https://www.resmigazete.gov.tr/eskiler/2026/10/20261002-6.pdf)
-- [Sağlık Hizmetleri Fiyatlandırma Komisyonu Kararı](https://www.resmigazete.gov.tr/eskiler/2026/10/20261002-7.pdf)
-
-**YARGI BÖLÜMÜ / ANAYASA MAHKEMESİ KARARI**
-- [Anayasa Mahkemesinin 21/4/2026 Tarihli ve 2022/81264 Başvuru Numaralı Kararı](https://www.resmigazete.gov.tr/eskiler/2026/10/20261002-8.pdf)
+**YÜRÜTME VE İDARE BÖLÜMÜ / TEBLİĞ**
+- [NXT Elektronik Para ve Ödeme Hizmetleri A.Ş.’ye Elektronik Para Kuruluşu Olarak Faaliyet Göstermek Üzere Faaliyet İzni Verilmesine İlişkin Karar](https://www.resmigazete.gov.tr/eskiler/2026/10/20261003-7.pdf) `[elektronik para, ödeme hizmet]`
 
 ## Kurum sayfaları
