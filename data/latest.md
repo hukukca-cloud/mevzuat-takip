@@ -1,27 +1,20 @@
-# Mevzuat Takip – Ham Toplama (2026-10-06)
+# Mevzuat Takip – Ham Toplama (2026-10-07)
 
-Oluşturulma: 2026-10-06T05:15:58+03:00
+Oluşturulma: 2026-10-07T05:16:29+03:00
 
-## Resmî Gazete 2026-10-06 – sayı 33392 – durum: ok
+## Resmî Gazete 2026-10-07 – sayı 33393 – durum: ok
 
-**YÜRÜTME VE İDARE BÖLÜMÜ / YÖNETMELİK**
-- [Çevre Yönetimi Hizmetleri Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik](https://www.resmigazete.gov.tr/eskiler/2026/10/20261006-1.htm)
+**YÜRÜTME VE İDARE BÖLÜMÜ / CUMHURBAŞKANI KARARLARI**
+- [İzmir İlinde Bulunan Bazı Yerlerde Arazi Toplulaştırması ve Tarla İçi Geliştirme Hizmetleri Yapılması Hakkında Karar (Karar Sayısı: 11841)](https://www.resmigazete.gov.tr/eskiler/2026/10/20261007-5.pdf)
+- [Kırklareli İlinde Bulunan Bazı Yerlerde Arazi Toplulaştırması ve Tarla İçi Geliştirme Hizmetleri Yapılması Hakkında Karar (Karar Sayısı: 11842)](https://www.resmigazete.gov.tr/eskiler/2026/10/20261007-6.pdf)
+- [İyidere Ayrım-İkizdere-İspir Yolu Projesi (Km:40+700-59+090 Arası) Kapsamında Ekli Krokide Gösterilen Güzergâha Rastlayan Kesimde Araziye Girilerek Yol Yapım Çalışmalarının Tamamlanması Amacıyla İhtiyaç Duyulan Taşınmazlar ile Üzerlerindeki Müştemilatın Karayolları Genel Müdürlüğü Tarafından Acele Kamulaştırılması Hakkında Karar (Karar Sayısı: 11843)](https://www.resmigazete.gov.tr/eskiler/2026/10/20261007-7.pdf)
+- [Aydın Çıldır Havalimanı Geliştirme Projesi İşi Kapsamında Bazı Taşınmazlar ile Üzerlerindeki Muhdesatın Ulaştırma ve Altyapı Bakanlığı (Altyapı Yatırımları Genel Müdürlüğü) Tarafından Acele Kamulaştırılması Hakkında Karar (Karar Sayısı: 11844)](https://www.resmigazete.gov.tr/eskiler/2026/10/20261007-8.pdf)
 
-**YÜRÜTME VE İDARE BÖLÜMÜ / TEBLİĞLER**
-- [İşkolu Tespit Kararları (No: 2026/62, 63, 64, 65, 66, 67, 68, 69)](https://www.resmigazete.gov.tr/eskiler/2026/10/20261006-2.pdf)
-- [2026-2027 Eğitim ve Öğretim Yılında Adıyaman, Hatay, Kahramanmaraş ve Malatya İlleri ile Gaziantep İlinin İslahiye ve Nurdağı İlçelerindeki Özel Okullarda Öğrenim Gören ve Önceki Yıllarda Eğitim ve Öğretim Desteği Kapsamına Alınıp Öğretim Kademesini Tamamlamayan Öğrenciler İçin Eğitim ve Öğretim Desteği Verilmesine İlişkin Tebliğ](https://www.resmigazete.gov.tr/eskiler/2026/10/20261006-3.htm)
-- [2026-2027 Eğitim Öğretim Yılında Organize Sanayi Bölgeleri İçinde ve Organize Sanayi Bölgeleri Dışında Açılan Özel Meslekî ve Teknik Anadolu Liselerinde Öğrenim Gören/Görecek Öğrenciler İçin Eğitim ve Öğretim Desteği Verilmesine İlişkin Tebliğ](https://www.resmigazete.gov.tr/eskiler/2026/10/20261006-4.htm)
-
-**YARGI BÖLÜMÜ / ANAYASA MAHKEMESİ KARARLARI**
-- [Anayasa Mahkemesinin 8/1/2026 Tarihli ve 2021/56755 Başvuru Numaralı Kararı](https://www.resmigazete.gov.tr/eskiler/2026/10/20261006-5.pdf)
-- [Anayasa Mahkemesinin 8/1/2026 Tarihli ve 2023/91027 Başvuru Numaralı Kararı](https://www.resmigazete.gov.tr/eskiler/2026/10/20261006-6.pdf)
-- [Anayasa Mahkemesinin 19/2/2026 Tarihli ve 2019/789 Başvuru Numaralı Kararı](https://www.resmigazete.gov.tr/eskiler/2026/10/20261006-7.pdf)
-- [Anayasa Mahkemesinin 19/2/2026 Tarihli ve 2020/9501 Başvuru Numaralı Kararı](https://www.resmigazete.gov.tr/eskiler/2026/10/20261006-8.pdf)
-- [Anayasa Mahkemesinin 19/2/2026 Tarihli ve 2021/24997 Başvuru Numaralı Kararı](https://www.resmigazete.gov.tr/eskiler/2026/10/20261006-9.pdf)
-- [Anayasa Mahkemesinin 2/4/2026 Tarihli ve 2025/57667 Başvuru Numaralı Kararı](https://www.resmigazete.gov.tr/eskiler/2026/10/20261006-10.pdf)
-- [Anayasa Mahkemesinin 12/5/2026 Tarihli ve 2022/102726 Başvuru Numaralı Kararı](https://www.resmigazete.gov.tr/eskiler/2026/10/20261006-11.pdf)
-- [Anayasa Mahkemesinin 2/7/2026 Tarihli ve 2021/29752 Başvuru Numaralı Kararı](https://www.resmigazete.gov.tr/eskiler/2026/10/20261006-12.pdf)
-- [Anayasa Mahkemesinin 2/7/2026 Tarihli ve 2022/75743 Başvuru Numaralı Kararı](https://www.resmigazete.gov.tr/eskiler/2026/10/20261006-13.pdf)
-- [Anayasa Mahkemesinin 2/7/2026 Tarihli ve 2023/31244 Başvuru Numaralı Kararı](https://www.resmigazete.gov.tr/eskiler/2026/10/20261006-14.pdf)
+**YÜRÜTME VE İDARE BÖLÜMÜ / YÖNETMELİKLER**
+- [Suç Gelirlerinin Aklanmasının ve Terörün Finansmanının Önlenmesine Dair Tedbirler Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik (Karar Sayısı: 11845)](https://www.resmigazete.gov.tr/eskiler/2026/10/20261007-9.pdf) `[suç gelirlerinin aklanması, terörün finansmanı]`
+- [Engelli Bireylere Yönelik Özel Bakım Merkezleri Yönetmeliği](https://www.resmigazete.gov.tr/eskiler/2026/10/20261007-4.htm)
+- [Kentsel Dönüşüm Başkanlığı Personelinin Atama ve Yer Değiştirme Yönetmeliği](https://www.resmigazete.gov.tr/eskiler/2026/10/20261007-1.htm)
+- [Dokuz Eylül Üniversitesi Lisansüstü Eğitim ve Öğretim Yönetmeliği](https://www.resmigazete.gov.tr/eskiler/2026/10/20261007-2.htm)
+- [Dokuz Eylül Üniversitesi Ön Lisans ve Lisans Öğretim ve Sınav Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik](https://www.resmigazete.gov.tr/eskiler/2026/10/20261007-3.htm)
 
 ## Kurum sayfaları
