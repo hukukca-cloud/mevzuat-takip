@@ -1,207 +1,53 @@
 {
-  "tarih": "2026-10-10",
-  "olusturulma": "2026-10-10T11:17:33+03:00",
+  "tarih": "2026-10-11",
+  "olusturulma": "2026-10-11T11:34:51+03:00",
   "resmi_gazete": {
     "kaynak": "Resmî Gazete",
     "sayilar": [
       {
-        "tarih": "2026-10-10",
-        "url": "https://www.resmigazete.gov.tr/fihrist?tarih=2026-10-10",
+        "tarih": "2026-10-11",
+        "url": "https://www.resmigazete.gov.tr/fihrist?tarih=2026-10-11",
         "status": "ok",
-        "tarih_metni": "10 Ekim 2026",
-        "sayi": "33396",
+        "tarih_metni": "11 Ekim 2026",
+        "sayi": "33397",
         "items": [
           {
             "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
-            "tur": "CUMHURBAŞKANI KARARLARI",
-            "baslik": "İller Bankası Anonim Şirketinin Sermayesinin 250.000.000.000 Türk Lirasına Çıkarılması Hakkında Karar (Karar Sayısı: 11856)",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261010-1.pdf",
-            "mukerrer": false,
-            "anahtar_kelime": [
-              "anonim şirket"
-            ]
-          },
-          {
-            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
-            "tur": "CUMHURBAŞKANI KARARLARI",
-            "baslik": "Ülkemizden Afganistan İslam Cumhuriyeti’ne Gönderilecek İnsani Yardım Malzemelerinin Demiryolu ile Sevki Amacıyla Türkiye Cumhuriyeti Devlet Demiryolları Taşımacılık A.Ş. Genel Müdürlüğünün Görevlendirilmesine İlişkin Karar (Karar Sayısı: 11857)",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261010-2.pdf",
-            "mukerrer": false,
-            "anahtar_kelime": []
-          },
-          {
-            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
-            "tur": "CUMHURBAŞKANI KARARLARI",
-            "baslik": "400/154 kV Rumeli Transformatör Merkezi Sahası Projesi Kapsamında Bazı Taşınmazların Türkiye Elektrik İletim Anonim Şirketi Genel Müdürlüğü Tarafından Acele Kamulaştırılması Hakkında Karar (Karar Sayısı: 11858)",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261010-3.pdf",
-            "mukerrer": false,
-            "anahtar_kelime": [
-              "anonim şirket"
-            ]
-          },
-          {
-            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
-            "tur": "CUMHURBAŞKANI KARARLARI",
-            "baslik": "400/154 kV Sarıhöyük Havza Transformatör Merkezi Sahası Projesi Kapsamında Bazı Taşınmazların Türkiye Elektrik İletim Anonim Şirketi Genel Müdürlüğü Tarafından Acele Kamulaştırılması Hakkında Karar (Karar Sayısı: 11859)",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261010-4.pdf",
-            "mukerrer": false,
-            "anahtar_kelime": [
-              "anonim şirket"
-            ]
-          },
-          {
-            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
-            "tur": "CUMHURBAŞKANI KARARLARI",
-            "baslik": "400 kV Konya Kuzey-İGA GES Enerji İletim Hattı Projesi Kapsamında Bazı Taşınmazların Türkiye Elektrik İletim Anonim Şirketi Genel Müdürlüğü Tarafından Acele Kamulaştırılması Hakkında Karar (Karar Sayısı: 11860)",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261010-5.pdf",
-            "mukerrer": false,
-            "anahtar_kelime": [
-              "anonim şirket"
-            ]
-          },
-          {
-            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
-            "tur": "CUMHURBAŞKANI KARARLARI",
-            "baslik": "Kamulaştırma Bilgileri ve Güzergâhları Yer Alan Doğal Gaz Boru Hattı Projelerinin Gerçekleştirilmesi Amacıyla Bazı Taşınmazların Boru Hatları ile Petrol Taşıma Anonim Şirketi Genel Müdürlüğü Tarafından Acele Kamulaştırılması Hakkında Karar (Karar Sayısı: 11861)",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261010-6.pdf",
-            "mukerrer": false,
-            "anahtar_kelime": [
-              "anonim şirket"
-            ]
-          },
-          {
-            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
-            "tur": "CUMHURBAŞKANI KARARLARI",
-            "baslik": "Akdeniz Petrol ve Doğal Gaz Arama ve Üretim Projesi Kapsamında Petrol ve Doğal Gaz Arama ve Üretim Faaliyetlerini Gerçekleştirmek Amacıyla Bazı Taşınmazların Türkiye Petrolleri Anonim Ortaklığı Tarafından Acele Kamulaştırılması Hakkında Karar (Karar Sayısı: 11862)",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261010-7.pdf",
-            "mukerrer": false,
-            "anahtar_kelime": []
-          },
-          {
-            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
-            "tur": "CUMHURBAŞKANI KARARLARI",
-            "baslik": "Kamulaştırma Bilgileri ve Güzergâhları Gösterilen Bazı Taşınmazların Türkiye Elektrik Dağıtım Anonim Şirketi Genel Müdürlüğü Tarafından Acele Kamulaştırılması Hakkında Karar (Karar Sayısı: 11863)",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261010-8.pdf",
-            "mukerrer": false,
-            "anahtar_kelime": [
-              "anonim şirket"
-            ]
-          },
-          {
-            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
-            "tur": "CUMHURBAŞKANI KARARLARI",
-            "baslik": "154 kV Diyarbakır 3-Diyarbakır-4 Enerji İletim Hattının 38-40 Numaralı Direkler Arası Deplasesi Projesi Kapsamında Bazı Taşınmazların Türkiye Elektrik İletim Anonim Şirketi Genel Müdürlüğü Tarafından Acele Kamulaştırılması Hakkında Karar (Karar Sayısı: 11864)",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261010-9.pdf",
-            "mukerrer": false,
-            "anahtar_kelime": [
-              "anonim şirket"
-            ]
-          },
-          {
-            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
-            "tur": "CUMHURBAŞKANI KARARLARI",
-            "baslik": "Samsun İli, Alaçam İlçesi, Karşıyaka Mahallesi Sınırları İçerisinde Bulunan Özel Mülkiyete Konu Taşınmazlar ile Üzerlerindeki Muhdesatın Alaçam Devlet Hastanesi Yolunun Yapımı Amacıyla Samsun Büyükşehir Belediye Başkanlığı Tarafından Acele Kamulaştırılması Hakkında Karar (Karar Sayısı: 11865)",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261010-10.pdf",
-            "mukerrer": false,
-            "anahtar_kelime": []
-          },
-          {
-            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
-            "tur": "CUMHURBAŞKANI KARARLARI",
-            "baslik": "400/154 kV Gordion Havza Transformatör Merkezi Sahası Projesi Kapsamında Bazı Taşınmazların Türkiye Elektrik İletim Anonim Şirketi Genel Müdürlüğü Tarafından Acele Kamulaştırılması Hakkında Karar (Karar Sayısı: 11866)",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261010-11.pdf",
-            "mukerrer": false,
-            "anahtar_kelime": [
-              "anonim şirket"
-            ]
-          },
-          {
-            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
-            "tur": "CUMHURBAŞKANI KARARLARI",
-            "baslik": "400 kV Seydişehir-Afyon 2 Yenileme Enerji İletim Hattı Projesi Kapsamında Bazı Taşınmazların Türkiye Elektrik İletim Anonim Şirketi Genel Müdürlüğü Tarafından Acele Kamulaştırılması Hakkında Karar (Karar Sayısı: 11867)",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261010-12.pdf",
-            "mukerrer": false,
-            "anahtar_kelime": [
-              "anonim şirket"
-            ]
-          },
-          {
-            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
-            "tur": "CUMHURBAŞKANI KARARLARI",
-            "baslik": "400 kV Gölbaşı-Kayseri Kapasitör Kuzey Enerji İletim Hattı Kısmi Yenileme Projesi Kapsamında Bazı Taşınmazların Türkiye Elektrik İletim Anonim Şirketi Genel Müdürlüğü Tarafından Acele Kamulaştırılması Hakkında Karar (Karar Sayısı: 11868)",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261010-13.pdf",
-            "mukerrer": false,
-            "anahtar_kelime": [
-              "anonim şirket"
-            ]
-          },
-          {
-            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
-            "tur": "CUMHURBAŞKANI KARARLARI",
-            "baslik": "154 kV (PS-4-Bismil-2) Brş.N.-Midyat Enerji İletim Hattı Projesi Kapsamında Bazı Taşınmazların Türkiye Elektrik İletim Anonim Şirketi Genel Müdürlüğü Tarafından Acele Kamulaştırılması Hakkında Karar (Karar Sayısı: 11869)",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261010-14.pdf",
-            "mukerrer": false,
-            "anahtar_kelime": [
-              "anonim şirket"
-            ]
-          },
-          {
-            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
             "tur": "YÖNETMELİKLER",
-            "baslik": "Sosyal Ağ Sağlayıcı Tarafından Çocuklara Özgü Ayrıştırılmış Hizmet Sunulmasına ve Yaş Doğrulamaya İlişkin Yönetmelik",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261010-15.pdf",
+            "baslik": "Anadolu Üniversitesi Yapay Zeka Uygulama ve Araştırma Merkezi Yönetmeliği",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261011-1.htm",
             "mukerrer": false,
             "anahtar_kelime": []
           },
           {
             "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
             "tur": "YÖNETMELİKLER",
-            "baslik": "Demiryolu ile Seyahat Eden Yolcuların Haklarına Dair Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261010-16.htm",
+            "baslik": "Bartın Üniversitesi Öğretim Elemanlarının Teknoloji Geliştirme Bölgelerinde Görevlendirilme ve Şirket Kurabilmelerine Dair Yönetmelik",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261011-2.htm",
             "mukerrer": false,
             "anahtar_kelime": []
           },
           {
             "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
             "tur": "YÖNETMELİKLER",
-            "baslik": "TMMOB Harita ve Kadastro Mühendisleri Odası Lisanslı Harita ve Kadastro Mühendisleri ve Büroları Tescil Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261010-17.htm",
+            "baslik": "Tunceli Üniversitesi Su Ürünleri Uygulama ve Araştırma Merkezi Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261011-3.htm",
             "mukerrer": false,
             "anahtar_kelime": []
           },
           {
             "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
             "tur": "TEBLİĞLER",
-            "baslik": "Okul Gıdası Hakkında Tebliğ (Tebliğ No: 2020/23)’de Değişiklik Yapılmasına Dair Tebliğ (No: 2026/27)",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261010-18.htm",
+            "baslik": "Vergi Usul Kanunu Genel Tebliği (Sıra No: 596)",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261011-4.htm",
             "mukerrer": false,
             "anahtar_kelime": []
           },
           {
             "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
             "tur": "TEBLİĞLER",
-            "baslik": "6102 Sayılı Türk Ticaret Kanununun 376 ncı Maddesinin Uygulanmasına İlişkin Usul ve Esaslar Hakkında Tebliğde Değişiklik Yapılmasına Dair Tebliğ",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261010-19.htm",
-            "mukerrer": false,
-            "anahtar_kelime": [
-              "Türk Ticaret Kanunu"
-            ]
-          },
-          {
-            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
-            "tur": "TEBLİĞLER",
-            "baslik": "Parakolay Elektronik Para A.Ş.’nin Faaliyet İzninin İptal Edilmesine İlişkin Karar",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261010-20.pdf",
-            "mukerrer": false,
-            "anahtar_kelime": [
-              "elektronik para"
-            ]
-          },
-          {
-            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
-            "tur": "KURUL KARARI",
-            "baslik": "Enerji Piyasası Düzenleme Kurulunun 08/10/2026 Tarihli ve 14938 Sayılı Kararı",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261010-21.pdf",
+            "baslik": "Ulusal Meslek Standartlarına Dair Tebliğ (Tebliğ No: 2017/18)'de Değişiklik Yapılmasına İlişkin Tebliğ (No: 2026/12)",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261011-5.htm",
             "mukerrer": false,
             "anahtar_kelime": []
           }
