@@ -1,16 +1,15 @@
-# Mevzuat Takip – Ham Toplama (2026-10-11)
+# Mevzuat Takip – Ham Toplama (2026-10-12)
 
-Oluşturulma: 2026-10-11T11:34:51+03:00
+Oluşturulma: 2026-10-12T11:55:03+03:00
 
-## Resmî Gazete 2026-10-11 – sayı 33397 – durum: ok
+## Resmî Gazete 2026-10-12 – sayı 33398 – durum: ok
 
 **YÜRÜTME VE İDARE BÖLÜMÜ / YÖNETMELİKLER**
-- [Anadolu Üniversitesi Yapay Zeka Uygulama ve Araştırma Merkezi Yönetmeliği](https://www.resmigazete.gov.tr/eskiler/2026/10/20261011-1.htm)
-- [Bartın Üniversitesi Öğretim Elemanlarının Teknoloji Geliştirme Bölgelerinde Görevlendirilme ve Şirket Kurabilmelerine Dair Yönetmelik](https://www.resmigazete.gov.tr/eskiler/2026/10/20261011-2.htm)
-- [Tunceli Üniversitesi Su Ürünleri Uygulama ve Araştırma Merkezi Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik](https://www.resmigazete.gov.tr/eskiler/2026/10/20261011-3.htm)
-
-**YÜRÜTME VE İDARE BÖLÜMÜ / TEBLİĞLER**
-- [Vergi Usul Kanunu Genel Tebliği (Sıra No: 596)](https://www.resmigazete.gov.tr/eskiler/2026/10/20261011-4.htm)
-- [Ulusal Meslek Standartlarına Dair Tebliğ (Tebliğ No: 2017/18)'de Değişiklik Yapılmasına İlişkin Tebliğ (No: 2026/12)](https://www.resmigazete.gov.tr/eskiler/2026/10/20261011-5.htm)
+- [Gazi Üniversitesi Spor Bilimleri Uygulama ve Araştırma Merkezi Yönetmeliği](https://www.resmigazete.gov.tr/eskiler/2026/10/20261012-1.htm)
+- [Hakkari Üniversitesi Dil Öğretimi Uygulama ve Araştırma Merkezi Yönetmeliği](https://www.resmigazete.gov.tr/eskiler/2026/10/20261012-2.htm)
+- [İstanbul Yeni Yüzyıl Üniversitesi Türkçe Öğretimi Uygulama ve Araştırma Merkezi Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik](https://www.resmigazete.gov.tr/eskiler/2026/10/20261012-3.htm)
+- [Samsun Üniversitesi Tıp Fakültesi Eğitim-Öğretim ve Sınav Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik](https://www.resmigazete.gov.tr/eskiler/2026/10/20261012-4.htm)
+- [Türk-Alman Üniversitesi Lisans Eğitim-Öğretim ve Sınav Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik](https://www.resmigazete.gov.tr/eskiler/2026/10/20261012-5.htm)
+- [Üsküdar Üniversitesi Miyopi Uygulama ve Araştırma Merkezi Yönetmeliği](https://www.resmigazete.gov.tr/eskiler/2026/10/20261012-6.htm)
 
 ## Kurum sayfaları
