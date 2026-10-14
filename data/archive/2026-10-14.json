@@ -1,0 +1,52 @@
+{
+  "tarih": "2026-10-14",
+  "olusturulma": "2026-10-14T10:21:16+03:00",
+  "resmi_gazete": {
+    "kaynak": "Resmî Gazete",
+    "sayilar": [
+      {
+        "tarih": "2026-10-14",
+        "url": "https://www.resmigazete.gov.tr/fihrist?tarih=2026-10-14",
+        "status": "ok",
+        "tarih_metni": "14 Ekim 2026",
+        "sayi": "33400",
+        "items": [
+          {
+            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
+            "tur": "YÖNETMELİKLER",
+            "baslik": "Coğrafi Veri İzinleri Yönetmeliği",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261014-1.htm",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
+            "tur": "YÖNETMELİKLER",
+            "baslik": "Hayvancılık İşletmelerinin Sınıflandırılmasına İlişkin Yönetmelik",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261014-2.htm",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
+            "tur": "TEBLİĞLER",
+            "baslik": "Çiğ Süt Desteği ve Süt Piyasasının Düzenlenmesi Uygulama Tebliği (Tebliğ No: 2024/53)’nde Değişiklik Yapılmasına Dair Tebliğ (No: 2026/28)",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261014-3.htm",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
+            "tur": "TEBLİĞLER",
+            "baslik": "İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (No: 2026/31)",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261014-4.htm",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          }
+        ],
+        "notes": []
+      }
+    ]
+  },
+  "kurumlar": []
+}

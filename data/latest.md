@@ -1,13 +1,15 @@
-# Mevzuat Takip – Ham Toplama (2026-10-13)
+# Mevzuat Takip – Ham Toplama (2026-10-14)
 
-Oluşturulma: 2026-10-13T12:10:31+03:00
+Oluşturulma: 2026-10-14T10:21:16+03:00
 
-## Resmî Gazete 2026-10-13 – sayı 33399 – durum: ok
+## Resmî Gazete 2026-10-14 – sayı 33400 – durum: ok
 
 **YÜRÜTME VE İDARE BÖLÜMÜ / YÖNETMELİKLER**
-- [Elektrikli Skuter Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik](https://www.resmigazete.gov.tr/eskiler/2026/10/20261013-1.htm)
-- [Taşıma İşleri Organizatörlüğü Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik](https://www.resmigazete.gov.tr/eskiler/2026/10/20261013-2.htm)
-- [Tehlikeli Maddelerin Demiryolu ile Taşınması Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik](https://www.resmigazete.gov.tr/eskiler/2026/10/20261013-3.htm)
-- [Yükseköğretim Kurumları Teknoloji Transfer Ofisi Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik](https://www.resmigazete.gov.tr/eskiler/2026/10/20261013-4.htm)
+- [Coğrafi Veri İzinleri Yönetmeliği](https://www.resmigazete.gov.tr/eskiler/2026/10/20261014-1.htm)
+- [Hayvancılık İşletmelerinin Sınıflandırılmasına İlişkin Yönetmelik](https://www.resmigazete.gov.tr/eskiler/2026/10/20261014-2.htm)
+
+**YÜRÜTME VE İDARE BÖLÜMÜ / TEBLİĞLER**
+- [Çiğ Süt Desteği ve Süt Piyasasının Düzenlenmesi Uygulama Tebliği (Tebliğ No: 2024/53)’nde Değişiklik Yapılmasına Dair Tebliğ (No: 2026/28)](https://www.resmigazete.gov.tr/eskiler/2026/10/20261014-3.htm)
+- [İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (No: 2026/31)](https://www.resmigazete.gov.tr/eskiler/2026/10/20261014-4.htm)
 
 ## Kurum sayfaları
