@@ -1,45 +1,269 @@
 {
-  "tarih": "2026-10-14",
-  "olusturulma": "2026-10-14T10:21:16+03:00",
+  "tarih": "2026-10-15",
+  "olusturulma": "2026-10-15T10:12:25+03:00",
   "resmi_gazete": {
     "kaynak": "Resmî Gazete",
     "sayilar": [
       {
-        "tarih": "2026-10-14",
-        "url": "https://www.resmigazete.gov.tr/fihrist?tarih=2026-10-14",
+        "tarih": "2026-10-15",
+        "url": "https://www.resmigazete.gov.tr/fihrist?tarih=2026-10-15",
         "status": "ok",
-        "tarih_metni": "14 Ekim 2026",
-        "sayi": "33400",
+        "tarih_metni": "15 Ekim 2026",
+        "sayi": "33401",
         "items": [
           {
             "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
             "tur": "YÖNETMELİKLER",
-            "baslik": "Coğrafi Veri İzinleri Yönetmeliği",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261014-1.htm",
+            "baslik": "Perakende Ticarette Uygulanacak İlke ve Kurallar Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261015-1.htm",
             "mukerrer": false,
             "anahtar_kelime": []
           },
           {
             "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
             "tur": "YÖNETMELİKLER",
-            "baslik": "Hayvancılık İşletmelerinin Sınıflandırılmasına İlişkin Yönetmelik",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261014-2.htm",
+            "baslik": "Türkiye Şeker Fabrikaları A.Ş. Genel Müdürlüğü Sözleşmeli Personeli Sicil Amirleri Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261015-2.htm",
             "mukerrer": false,
             "anahtar_kelime": []
           },
           {
-            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
-            "tur": "TEBLİĞLER",
-            "baslik": "Çiğ Süt Desteği ve Süt Piyasasının Düzenlenmesi Uygulama Tebliği (Tebliğ No: 2024/53)’nde Değişiklik Yapılmasına Dair Tebliğ (No: 2026/28)",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261014-3.htm",
+            "bolum": "YARGI BÖLÜMÜ",
+            "tur": "ANAYASA MAHKEMESİ KARARLARI",
+            "baslik": "Anayasa Mahkemesinin 26/3/2026 Tarihli ve E: 2025/2 (Siyasi Parti Mali Denetimi), K: 2026/1 Sayılı Kararı",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261015-3.pdf",
             "mukerrer": false,
             "anahtar_kelime": []
           },
           {
-            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
-            "tur": "TEBLİĞLER",
-            "baslik": "İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (No: 2026/31)",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261014-4.htm",
+            "bolum": "YARGI BÖLÜMÜ",
+            "tur": "ANAYASA MAHKEMESİ KARARLARI",
+            "baslik": "Anayasa Mahkemesinin 26/3/2026 Tarihli ve E: 2025/4 (Siyasi Parti Mali Denetimi), K: 2026/2 Sayılı Kararı",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261015-4.pdf",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YARGI BÖLÜMÜ",
+            "tur": "ANAYASA MAHKEMESİ KARARLARI",
+            "baslik": "Anayasa Mahkemesinin 26/3/2026 Tarihli ve E: 2025/10 (Siyasi Parti Mali Denetimi), K: 2026/3 Sayılı Kararı",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261015-5.pdf",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YARGI BÖLÜMÜ",
+            "tur": "ANAYASA MAHKEMESİ KARARLARI",
+            "baslik": "Anayasa Mahkemesinin 26/3/2026 Tarihli ve E: 2025/11 (Siyasi Parti Mali Denetimi), K: 2026/4 Sayılı Kararı",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261015-6.pdf",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YARGI BÖLÜMÜ",
+            "tur": "ANAYASA MAHKEMESİ KARARLARI",
+            "baslik": "Anayasa Mahkemesinin 26/3/2026 Tarihli ve E: 2025/12 (Siyasi Parti Mali Denetimi), K: 2026/5 Sayılı Kararı",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261015-7.pdf",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YARGI BÖLÜMÜ",
+            "tur": "ANAYASA MAHKEMESİ KARARLARI",
+            "baslik": "Anayasa Mahkemesinin 26/3/2026 Tarihli ve E: 2025/13 (Siyasi Parti Mali Denetimi), K: 2026/6 Sayılı Kararı",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261015-8.pdf",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YARGI BÖLÜMÜ",
+            "tur": "ANAYASA MAHKEMESİ KARARLARI",
+            "baslik": "Anayasa Mahkemesinin 26/3/2026 Tarihli ve E: 2025/14 (Siyasi Parti Mali Denetimi), K: 2026/7 Sayılı Kararı",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261015-9.pdf",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YARGI BÖLÜMÜ",
+            "tur": "ANAYASA MAHKEMESİ KARARLARI",
+            "baslik": "Anayasa Mahkemesinin 26/3/2026 Tarihli ve E: 2025/15 (Siyasi Parti Mali Denetimi), K: 2026/8 Sayılı Kararı",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261015-10.pdf",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YARGI BÖLÜMÜ",
+            "tur": "ANAYASA MAHKEMESİ KARARLARI",
+            "baslik": "Anayasa Mahkemesinin 26/3/2026 Tarihli ve E: 2025/16 (Siyasi Parti Mali Denetimi), K: 2026/9 Sayılı Kararı",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261015-11.pdf",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YARGI BÖLÜMÜ",
+            "tur": "ANAYASA MAHKEMESİ KARARLARI",
+            "baslik": "Anayasa Mahkemesinin 26/3/2026 Tarihli ve E: 2025/18 (Siyasi Parti Mali Denetimi), K: 2026/10 Sayılı Kararı",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261015-12.pdf",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YARGI BÖLÜMÜ",
+            "tur": "ANAYASA MAHKEMESİ KARARLARI",
+            "baslik": "Anayasa Mahkemesinin 26/3/2026 Tarihli ve E: 2025/19 (Siyasi Parti Mali Denetimi), K: 2026/11 Sayılı Kararı",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261015-13.pdf",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YARGI BÖLÜMÜ",
+            "tur": "ANAYASA MAHKEMESİ KARARLARI",
+            "baslik": "Anayasa Mahkemesinin 26/3/2026 Tarihli ve E: 2025/22 (Siyasi Parti Mali Denetimi), K: 2026/12 Sayılı Kararı",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261015-14.pdf",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YARGI BÖLÜMÜ",
+            "tur": "ANAYASA MAHKEMESİ KARARLARI",
+            "baslik": "Anayasa Mahkemesinin 26/3/2026 Tarihli ve E: 2025/27 (Siyasi Parti Mali Denetimi), K: 2026/13 Sayılı Kararı",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261015-15.pdf",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YARGI BÖLÜMÜ",
+            "tur": "ANAYASA MAHKEMESİ KARARLARI",
+            "baslik": "Anayasa Mahkemesinin 26/3/2026 Tarihli ve E: 2025/32 (Siyasi Parti Mali Denetimi), K: 2026/14 Sayılı Kararı",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261015-16.pdf",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YARGI BÖLÜMÜ",
+            "tur": "ANAYASA MAHKEMESİ KARARLARI",
+            "baslik": "Anayasa Mahkemesinin 26/3/2026 Tarihli ve E: 2025/33 (Siyasi Parti Mali Denetimi), K: 2026/15 Sayılı Kararı",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261015-17.pdf",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YARGI BÖLÜMÜ",
+            "tur": "ANAYASA MAHKEMESİ KARARLARI",
+            "baslik": "Anayasa Mahkemesinin 26/3/2026 Tarihli ve E: 2025/36 (Siyasi Parti Mali Denetimi), K: 2026/16 Sayılı Kararı",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261015-18.pdf",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YARGI BÖLÜMÜ",
+            "tur": "ANAYASA MAHKEMESİ KARARLARI",
+            "baslik": "Anayasa Mahkemesinin 26/3/2026 Tarihli ve E: 2025/38 (Siyasi Parti Mali Denetimi), K: 2026/17 Sayılı Kararı",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261015-19.pdf",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YARGI BÖLÜMÜ",
+            "tur": "ANAYASA MAHKEMESİ KARARLARI",
+            "baslik": "Anayasa Mahkemesinin 26/3/2026 Tarihli ve E: 2025/44 (Siyasi Parti Mali Denetimi), K: 2026/18 Sayılı Kararı",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261015-20.pdf",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YARGI BÖLÜMÜ",
+            "tur": "ANAYASA MAHKEMESİ KARARLARI",
+            "baslik": "Anayasa Mahkemesinin 26/3/2026 Tarihli ve E: 2025/58 (Siyasi Parti Mali Denetimi), K: 2026/19 Sayılı Kararı",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261015-21.pdf",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YARGI BÖLÜMÜ",
+            "tur": "ANAYASA MAHKEMESİ KARARLARI",
+            "baslik": "Anayasa Mahkemesinin 26/3/2026 Tarihli ve E: 2025/62 (Siyasi Parti Mali Denetimi), K: 2026/20 Sayılı Kararı",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261015-22.pdf",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YARGI BÖLÜMÜ",
+            "tur": "ANAYASA MAHKEMESİ KARARLARI",
+            "baslik": "Anayasa Mahkemesinin 26/3/2026 Tarihli ve E: 2025/67 (Siyasi Parti Mali Denetimi), K: 2026/21 Sayılı Kararı",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261015-23.pdf",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YARGI BÖLÜMÜ",
+            "tur": "ANAYASA MAHKEMESİ KARARLARI",
+            "baslik": "Anayasa Mahkemesinin 26/3/2026 Tarihli ve E: 2025/72 (Siyasi Parti Mali Denetimi), K: 2026/22 Sayılı Kararı",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261015-24.pdf",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YARGI BÖLÜMÜ",
+            "tur": "ANAYASA MAHKEMESİ KARARLARI",
+            "baslik": "Anayasa Mahkemesinin 26/3/2026 Tarihli ve E: 2025/82 (Siyasi Parti Mali Denetimi), K: 2026/23 Sayılı Kararı",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261015-25.pdf",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YARGI BÖLÜMÜ",
+            "tur": "ANAYASA MAHKEMESİ KARARLARI",
+            "baslik": "Anayasa Mahkemesinin 26/3/2026 Tarihli ve E: 2025/85 (Siyasi Parti Mali Denetimi), K: 2026/24 Sayılı Kararı",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261015-26.pdf",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YARGI BÖLÜMÜ",
+            "tur": "ANAYASA MAHKEMESİ KARARLARI",
+            "baslik": "Anayasa Mahkemesinin 26/3/2026 Tarihli ve E: 2025/92 (Siyasi Parti Mali Denetimi), K: 2026/25 Sayılı Kararı",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261015-27.pdf",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YARGI BÖLÜMÜ",
+            "tur": "ANAYASA MAHKEMESİ KARARLARI",
+            "baslik": "Anayasa Mahkemesinin 26/3/2026 Tarihli ve E: 2025/95 (Siyasi Parti Mali Denetimi), K: 2026/26 Sayılı Kararı",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261015-28.pdf",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YARGI BÖLÜMÜ",
+            "tur": "ANAYASA MAHKEMESİ KARARLARI",
+            "baslik": "Anayasa Mahkemesinin 26/3/2026 Tarihli ve E: 2025/97 (Siyasi Parti Mali Denetimi), K: 2026/27 Sayılı Kararı",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261015-29.pdf",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YARGI BÖLÜMÜ",
+            "tur": "ANAYASA MAHKEMESİ KARARLARI",
+            "baslik": "Anayasa Mahkemesinin 26/3/2026 Tarihli ve E: 2025/101 (Siyasi Parti Mali Denetimi), K: 2026/28 Sayılı Kararı",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261015-30.pdf",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YARGI BÖLÜMÜ",
+            "tur": "ANAYASA MAHKEMESİ KARARLARI",
+            "baslik": "Anayasa Mahkemesinin 26/3/2026 Tarihli ve E: 2025/102 (Siyasi Parti Mali Denetimi), K: 2026/29 Sayılı Kararı",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261015-31.pdf",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YARGI BÖLÜMÜ",
+            "tur": "ANAYASA MAHKEMESİ KARARLARI",
+            "baslik": "Anayasa Mahkemesinin 26/3/2026 Tarihli ve E: 2025/103 (Siyasi Parti Mali Denetimi), K: 2026/30 Sayılı Kararı",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261015-32.pdf",
             "mukerrer": false,
             "anahtar_kelime": []
           }
