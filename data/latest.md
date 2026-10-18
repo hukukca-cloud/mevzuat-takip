@@ -1,25 +1,14 @@
-# Mevzuat Takip – Ham Toplama (2026-10-17)
+# Mevzuat Takip – Ham Toplama (2026-10-18)
 
-Oluşturulma: 2026-10-17T09:46:55+03:00
+Oluşturulma: 2026-10-18T10:07:16+03:00
 
-## Resmî Gazete 2026-10-17 – sayı 33403 – durum: ok
-
-**YÜRÜTME VE İDARE BÖLÜMÜ / CUMHURBAŞKANI KARARI**
-- [Eleman Temininde Güçlük Çekilen Yerlerde ve Hizmet Dallarında Sağlık Hizmetlerinin Etkili ve Verimli Bir Şekilde Yürütülebilmesi Amacıyla Sözleşmeli Sağlık Personeli İstihdam Edilecek Hizmet Birimlerinin, 2027 Yılında Uygulanmak Üzere Tespit Edilmesi Hakkında Karar (Karar Sayısı: 2026/339)](https://www.resmigazete.gov.tr/eskiler/2026/10/20261017-1.pdf)
+## Resmî Gazete 2026-10-18 – sayı 33404 – durum: ok
 
 **YÜRÜTME VE İDARE BÖLÜMÜ / YÖNETMELİKLER**
-- [Bozulabilir Gıda Maddelerinin Taşımacılığında Kullanılacak Özel Ekipmanlar Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik](https://www.resmigazete.gov.tr/eskiler/2026/10/20261017-2.htm)
-- [Demiryolu Altyapı Erişim ve Kapasite Tahsis Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik](https://www.resmigazete.gov.tr/eskiler/2026/10/20261017-3.htm)
-- [Demiryolu Araçları Tescil ve Sicil Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik](https://www.resmigazete.gov.tr/eskiler/2026/10/20261017-4.htm)
-- [Demiryolu İşletmeciliği Yetkilendirme Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik](https://www.resmigazete.gov.tr/eskiler/2026/10/20261017-5.htm)
-- [Demiryolu Uygunluk Değerlendirme Kuruluşları Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik](https://www.resmigazete.gov.tr/eskiler/2026/10/20261017-6.htm)
-- [Tehlikeli Madde Güvenlik Danışmanlığı Hizmetleri Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik](https://www.resmigazete.gov.tr/eskiler/2026/10/20261017-7.htm)
-- [Tehlikeli Madde Taşıyan Araç ve Üstyapıların Teknik Muayeneleri Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik](https://www.resmigazete.gov.tr/eskiler/2026/10/20261017-8.htm)
-- [Tehlikeli Maddelerin Karayoluyla Taşınması Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik](https://www.resmigazete.gov.tr/eskiler/2026/10/20261017-9.htm)
-- [Tren Makinist Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik](https://www.resmigazete.gov.tr/eskiler/2026/10/20261017-10.htm)
-- [Türkiye Halk Sağlığı ve Kronik Hastalıklar Enstitüsünün Yapılanması ve Faaliyetlerine Dair Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik](https://www.resmigazete.gov.tr/eskiler/2026/10/20261017-11.htm)
-
-**YÜRÜTME VE İDARE BÖLÜMÜ / TEBLİĞ**
-- [Anonim ve Limited Şirketlerin Sermayelerini Yeni Asgari Tutarlara Yükseltme Süresinin Uzatılmasına İlişkin Tebliğ](https://www.resmigazete.gov.tr/eskiler/2026/10/20261017-12.htm)
+- [Ataşehir Adıgüzel Meslek Yüksekokulu Gıda ve Bitkisel Üretim Uygulama ve Araştırma Merkezi Yönetmeliği](https://www.resmigazete.gov.tr/eskiler/2026/10/20261018-1.htm)
+- [Ataşehir Adıgüzel Meslek Yüksekokulu Projeler, Girişimcilik, Kuluçka ve Hızlandırma Uygulama ve Araştırma Merkezi Yönetmeliği](https://www.resmigazete.gov.tr/eskiler/2026/10/20261018-2.htm)
+- [Ataşehir Adıgüzel Meslek Yüksekokulu Türkçe Öğretimi Uygulama ve Araştırma Merkezi Yönetmeliği](https://www.resmigazete.gov.tr/eskiler/2026/10/20261018-3.htm)
+- [Ege Üniversitesi Lisansüstü Eğitim-Öğretim Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik](https://www.resmigazete.gov.tr/eskiler/2026/10/20261018-4.htm)
+- [İstanbul Üniversitesi Lisansüstü Eğitim ve Öğretim Yönetmeliği](https://www.resmigazete.gov.tr/eskiler/2026/10/20261018-5.htm)
 
 ## Kurum sayfaları
