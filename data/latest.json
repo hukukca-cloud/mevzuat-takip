@@ -1,53 +1,85 @@
 {
-  "tarih": "2026-10-18",
-  "olusturulma": "2026-10-18T10:07:16+03:00",
+  "tarih": "2026-10-19",
+  "olusturulma": "2026-10-19T10:32:57+03:00",
   "resmi_gazete": {
     "kaynak": "Resmî Gazete",
     "sayilar": [
       {
-        "tarih": "2026-10-18",
-        "url": "https://www.resmigazete.gov.tr/fihrist?tarih=2026-10-18",
+        "tarih": "2026-10-19",
+        "url": "https://www.resmigazete.gov.tr/fihrist?tarih=2026-10-19",
         "status": "ok",
-        "tarih_metni": "18 Ekim 2026",
-        "sayi": "33404",
+        "tarih_metni": "19 Ekim 2026",
+        "sayi": "33405",
         "items": [
           {
             "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
             "tur": "YÖNETMELİKLER",
-            "baslik": "Ataşehir Adıgüzel Meslek Yüksekokulu Gıda ve Bitkisel Üretim Uygulama ve Araştırma Merkezi Yönetmeliği",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261018-1.htm",
+            "baslik": "Elektrik Piyasası Bağlantı ve Sistem Kullanım Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261019-1.htm",
             "mukerrer": false,
             "anahtar_kelime": []
           },
           {
             "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
             "tur": "YÖNETMELİKLER",
-            "baslik": "Ataşehir Adıgüzel Meslek Yüksekokulu Projeler, Girişimcilik, Kuluçka ve Hızlandırma Uygulama ve Araştırma Merkezi Yönetmeliği",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261018-2.htm",
+            "baslik": "Elektrik Piyasası Dengeleme ve Uzlaştırma Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261019-2.pdf",
             "mukerrer": false,
             "anahtar_kelime": []
           },
           {
             "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
             "tur": "YÖNETMELİKLER",
-            "baslik": "Ataşehir Adıgüzel Meslek Yüksekokulu Türkçe Öğretimi Uygulama ve Araştırma Merkezi Yönetmeliği",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261018-3.htm",
+            "baslik": "Elektrik Piyasası Lisans Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261019-3.htm",
             "mukerrer": false,
             "anahtar_kelime": []
           },
           {
             "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
             "tur": "YÖNETMELİKLER",
-            "baslik": "Ege Üniversitesi Lisansüstü Eğitim-Öğretim Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261018-4.htm",
+            "baslik": "Elektrik Piyasası Yan Hizmetler Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261019-4.htm",
             "mukerrer": false,
             "anahtar_kelime": []
           },
           {
             "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
             "tur": "YÖNETMELİKLER",
-            "baslik": "İstanbul Üniversitesi Lisansüstü Eğitim ve Öğretim Yönetmeliği",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261018-5.htm",
+            "baslik": "Elektrik Piyasasında Depolama Faaliyetleri Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261019-5.htm",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
+            "tur": "YÖNETMELİKLER",
+            "baslik": "Elektrik Piyasasında Lisanssız Elektrik Üretim Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261019-6.htm",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
+            "tur": "YÖNETMELİKLER",
+            "baslik": "Organize Sanayi Bölgelerinin ve Endüstri Bölgelerinin Elektrik Piyasası Faaliyetlerine İlişkin Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261019-7.htm",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
+            "tur": "YÖNETMELİKLER",
+            "baslik": "Yenilenebilir Enerji Kaynaklarının Belgelendirilmesi ve Desteklenmesine İlişkin Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261019-8.pdf",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
+            "tur": "KURUL KARARLARI",
+            "baslik": "Enerji Piyasası Düzenleme Kurulunun 24/09/2026 Tarihli ve 14907, 14908, 14909, 14910, 14911, 14912 ve 14913 Sayılı Kararları",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261019-9.pdf",
             "mukerrer": false,
             "anahtar_kelime": []
           }
