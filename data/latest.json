@@ -1,85 +1,143 @@
 {
-  "tarih": "2026-10-19",
-  "olusturulma": "2026-10-19T10:32:57+03:00",
+  "tarih": "2026-10-20",
+  "olusturulma": "2026-10-20T10:21:23+03:00",
   "resmi_gazete": {
     "kaynak": "Resmî Gazete",
     "sayilar": [
       {
-        "tarih": "2026-10-19",
-        "url": "https://www.resmigazete.gov.tr/fihrist?tarih=2026-10-19",
+        "tarih": "2026-10-20",
+        "url": "https://www.resmigazete.gov.tr/fihrist?tarih=2026-10-20",
         "status": "ok",
-        "tarih_metni": "19 Ekim 2026",
-        "sayi": "33405",
+        "tarih_metni": "20 Ekim 2026",
+        "sayi": "33406",
         "items": [
           {
             "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
-            "tur": "YÖNETMELİKLER",
-            "baslik": "Elektrik Piyasası Bağlantı ve Sistem Kullanım Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261019-1.htm",
+            "tur": "CUMHURBAŞKANI KARARLARI",
+            "baslik": "Kamu İktisadi Teşebbüsleri ve Bağlı Ortaklıklarının 2027 Yılına Ait Genel Yatırım ve Finansman Programının Tespit Edilmesi Hakkında Karar (Karar Sayısı: 11898)",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261020-1.pdf",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
+            "tur": "CUMHURBAŞKANI KARARLARI",
+            "baslik": "Birleşmiş Milletler Güvenlik Konseyinin 1267 (1999), 1988 (2011), 1989 (2011) ve 2253 (2015) Sayılı Kararlarıyla Listelenen Kişi, Kuruluş veya Organizasyonların Tasarrufunda Bulunan Malvarlığının Dondurulması Hakkındaki 30/9/2013 Tarihli ve 2013/5428 Sayılı Bakanlar Kurulu Kararının Eki (1) Sayılı Listede Değişiklik Yapılmasına İlişkin Karar (Karar Sayısı: 11899)",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261020-2.pdf",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
+            "tur": "CUMHURBAŞKANI KARARLARI",
+            "baslik": "Mardin Güneybatı Çevre Yolu Projesi (Km:20+000.00-29+666.00 Arası ile Kızıltepe Bağlantı Yolu Km:0+000.00-1+253.00 ve TOKİ Bağlantı Yolu Km: 0+000.00-1+690.00 Arası Dâhil) Kapsamında Bazı Taşınmazlar ile Üzerlerindeki Müştemilatın Karayolları Genel Müdürlüğü Tarafından Acele Kamulaştırılması Hakkında Karar (Karar Sayısı: 11900)",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261020-3.pdf",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
+            "tur": "CUMHURBAŞKANI KARARLARI",
+            "baslik": "Devlet Su İşleri Genel Müdürlüğü Tarafından Yürütülecek Denizli Merkez Atıksu Arıtma Tesisi Projesinin Yapımı Amacıyla Denizli İli, Merkezefendi İlçesi, Eskihisar Mahallesi Sınırları İçerisinde Bulunan Bazı Taşınmazların, Denizli Büyükşehir Belediye Başkanlığı Tarafından Acele Kamulaştırılması Hakkında Karar (Karar Sayısı: 11901)",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261020-4.pdf",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
+            "tur": "CUMHURBAŞKANI KARARLARI",
+            "baslik": "22 Şubat 2024 Tarihli ve 8189 Sayılı Cumhurbaşkanı Kararı ile Yürürlüğe Konulan İstanbul İlinde Yürütülecek Kentsel Dönüşüm Uygulamaları Kapsamında Yapım İçin Yardım Verilmesine İlişkin Kararın 3 üncü Maddesinin On Üçüncü Fıkrasında Yer Alan Sürenin 31/12/2027 Tarihine Kadar Uzatılması Hakkında Karar (Karar Sayısı: 11902)",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261020-5.pdf",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
+            "tur": "CUMHURBAŞKANI KARARLARI",
+            "baslik": "Samandağ İlçesi Doğal Gaz Boru Hattı Projesinin Gerçekleştirilmesi Amacıyla Bazı Taşınmazlar ile Söz Konusu Proje Kapsamında İnşa Edilecek Sabit Tesisler, Ulaşım Yolları, Enerji Nakil Hatları, Katodik Koruma Hatları ve Anot Yataklarının Yapımı Amacıyla İhtiyaç Duyulan Bazı Taşınmazların Boru Hatları ile Petrol Taşıma Anonim Şirketi Genel Müdürlüğü Tarafından Acele Kamulaştırılması Hakkında Karar (Karar Sayısı: 11903)",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261020-6.pdf",
+            "mukerrer": false,
+            "anahtar_kelime": [
+              "anonim şirket"
+            ]
+          },
+          {
+            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
+            "tur": "CUMHURBAŞKANI KARARLARI",
+            "baslik": "Özelleştirme İdaresi Başkanlığı ile İlgili Kararlar (Karar Sayısı: 11904, 11905, 11906, 11907, 11908, 11909, 11910, 11911)",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261020-7.pdf",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
+            "tur": "ATAMA KARARLARI",
+            "baslik": "Cumhurbaşkanlığı Tarafından Yapılan Atamalar Hakkında Kararlar (Karar: 2026/342, 343, 344, 345, 346, 347, 348, 349, 350, 351, 352, 353, 354, 355)",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261020-8.pdf",
             "mukerrer": false,
             "anahtar_kelime": []
           },
           {
             "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
             "tur": "YÖNETMELİKLER",
-            "baslik": "Elektrik Piyasası Dengeleme ve Uzlaştırma Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261019-2.pdf",
+            "baslik": "İstanbul Gedik Üniversitesi Engelsiz Yaşam Uygulama ve Araştırma Merkezi Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261020-9.htm",
             "mukerrer": false,
             "anahtar_kelime": []
           },
           {
             "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
             "tur": "YÖNETMELİKLER",
-            "baslik": "Elektrik Piyasası Lisans Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261019-3.htm",
-            "mukerrer": false,
-            "anahtar_kelime": []
-          },
-          {
-            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
-            "tur": "YÖNETMELİKLER",
-            "baslik": "Elektrik Piyasası Yan Hizmetler Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261019-4.htm",
-            "mukerrer": false,
-            "anahtar_kelime": []
-          },
-          {
-            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
-            "tur": "YÖNETMELİKLER",
-            "baslik": "Elektrik Piyasasında Depolama Faaliyetleri Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261019-5.htm",
-            "mukerrer": false,
-            "anahtar_kelime": []
-          },
-          {
-            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
-            "tur": "YÖNETMELİKLER",
-            "baslik": "Elektrik Piyasasında Lisanssız Elektrik Üretim Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261019-6.htm",
-            "mukerrer": false,
-            "anahtar_kelime": []
-          },
-          {
-            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
-            "tur": "YÖNETMELİKLER",
-            "baslik": "Organize Sanayi Bölgelerinin ve Endüstri Bölgelerinin Elektrik Piyasası Faaliyetlerine İlişkin Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261019-7.htm",
-            "mukerrer": false,
-            "anahtar_kelime": []
-          },
-          {
-            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
-            "tur": "YÖNETMELİKLER",
-            "baslik": "Yenilenebilir Enerji Kaynaklarının Belgelendirilmesi ve Desteklenmesine İlişkin Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261019-8.pdf",
+            "baslik": "Trakya Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261020-10.htm",
             "mukerrer": false,
             "anahtar_kelime": []
           },
           {
             "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
             "tur": "KURUL KARARLARI",
-            "baslik": "Enerji Piyasası Düzenleme Kurulunun 24/09/2026 Tarihli ve 14907, 14908, 14909, 14910, 14911, 14912 ve 14913 Sayılı Kararları",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261019-9.pdf",
+            "baslik": "Enerji Piyasası Düzenleme Kurulunun 15/10/2026 Tarihli ve 14967 Sayılı Kararı",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261020-11.pdf",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
+            "tur": "KURUL KARARLARI",
+            "baslik": "Enerji Piyasası Düzenleme Kurulunun 15/10/2026 Tarihli ve 14968 Sayılı Kararı",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261020-12.pdf",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YARGI BÖLÜMÜ",
+            "tur": "ANAYASA MAHKEMESİ KARARLARI",
+            "baslik": "Anayasa Mahkemesinin 5/5/2026 Tarihli ve 2021/18349 Başvuru Numaralı Kararı",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261020-13.pdf",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YARGI BÖLÜMÜ",
+            "tur": "ANAYASA MAHKEMESİ KARARLARI",
+            "baslik": "Anayasa Mahkemesinin 5/5/2026 Tarihli ve 2021/29809 Başvuru Numaralı Kararı",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261020-14.pdf",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YARGI BÖLÜMÜ",
+            "tur": "ANAYASA MAHKEMESİ KARARLARI",
+            "baslik": "Anayasa Mahkemesinin 18/5/2026 Tarihli ve 2021/22274 Başvuru Numaralı Kararı",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261020-15.pdf",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YARGI BÖLÜMÜ",
+            "tur": "ANAYASA MAHKEMESİ KARARLARI",
+            "baslik": "Anayasa Mahkemesinin 18/5/2026 Tarihli ve 2023/33449 Başvuru Numaralı Kararı",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261020-16.pdf",
             "mukerrer": false,
             "anahtar_kelime": []
           }
