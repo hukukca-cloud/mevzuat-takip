@@ -1,25 +1,24 @@
-# Mevzuat Takip – Ham Toplama (2026-10-22)
+# Mevzuat Takip – Ham Toplama (2026-10-23)
 
-Oluşturulma: 2026-10-22T10:22:14+03:00
+Oluşturulma: 2026-10-23T10:15:36+03:00
 
-## Resmî Gazete 2026-10-22 – sayı 33408 – durum: ok
+## Resmî Gazete 2026-10-23 – sayı 33409 – durum: ok
+
+**YÜRÜTME VE İDARE BÖLÜMÜ / CUMHURBAŞKANI KARARI**
+- [Kamu Kurum ve Kuruluşlarının Ürettikleri Bazı Mal ve Hizmetlerden Ücretsiz veya İndirimli Olarak Faydalanacakların Tespitine İlişkin Karar (Karar Sayısı: 11919)](https://www.resmigazete.gov.tr/eskiler/2026/10/20261023-1.pdf)
 
 **YÜRÜTME VE İDARE BÖLÜMÜ / HÂKİMLER VE SAVCILAR KURULU KARARI**
-- [Hâkimler ve Savcılar Kurulu Genel Kurulunun 21/10/2026 Tarihli ve 1160 Sayılı Kararı](https://www.resmigazete.gov.tr/eskiler/2026/10/20261022-1.pdf)
+- [Hâkimler ve Savcılar Kurulu Genel Kurulunun 21/10/2026 Tarihli ve 1157-1158 Sayılı Kararı](https://www.resmigazete.gov.tr/eskiler/2026/10/20261023-2.pdf)
 
 **YÜRÜTME VE İDARE BÖLÜMÜ / YÖNETMELİKLER**
-- [Ankara Medipol Üniversitesi Hukukta Dijital Dönüşüm ve Hukuk Teknolojileri Uygulama ve Araştırma Merkezi Yönetmeliği](https://www.resmigazete.gov.tr/eskiler/2026/10/20261022-2.htm)
-- [Hacettepe Üniversitesi Arı ve Arı Ürünleri Uygulama ve Araştırma Merkezi (HARÜM) Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik](https://www.resmigazete.gov.tr/eskiler/2026/10/20261022-3.htm)
+- [Başbakanlık Özel Çevre Koruma Kurumu Başkanlığı Yayın Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik](https://www.resmigazete.gov.tr/eskiler/2026/10/20261023-3.htm)
+- [Çanakkale Savaşları Gelibolu Tarihi Alanında Yapılaşmanın ve Yapıların Kullanımının Denetimi ile Kültür ve Tabiat Varlıklarını Koruma Komisyonunun Çalışma Usul ve Esaslarına İlişkin Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik](https://www.resmigazete.gov.tr/eskiler/2026/10/20261023-4.htm)
+- [Çankaya Üniversitesi Ön Lisans ve Lisans Eğitim ve Öğretim Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik](https://www.resmigazete.gov.tr/eskiler/2026/10/20261023-5.htm)
+- [Fenerbahçe Üniversitesi Afrika Çalışmaları Uygulama ve Araştırma Merkezi Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik](https://www.resmigazete.gov.tr/eskiler/2026/10/20261023-6.htm)
+- [Fenerbahçe Üniversitesi Avrupa Çalışmaları Uygulama ve Araştırma Merkezi Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik](https://www.resmigazete.gov.tr/eskiler/2026/10/20261023-7.htm)
+- [Piri Reis Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim ve Sınav Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik](https://www.resmigazete.gov.tr/eskiler/2026/10/20261023-8.htm)
 
-**YÜRÜTME VE İDARE BÖLÜMÜ / KURUL KARARLARI**
-- [Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurulunun 19/10/2026 Tarihli ve 75935942-050.01.04-[01/46753] Sayılı Kararı](https://www.resmigazete.gov.tr/eskiler/2026/10/20261022-4.pdf)
-- [Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurulunun 19/10/2026 Tarihli ve 75935942-050.01.04-[01/46754] Sayılı Kararı](https://www.resmigazete.gov.tr/eskiler/2026/10/20261022-5.pdf)
-
-**YARGI BÖLÜMÜ / ANAYASA MAHKEMESİ KARARLARI**
-- [Anayasa Mahkemesinin 25/6/2026 Tarihli ve E: 2026/46, K: 2026/145 Sayılı Kararı](https://www.resmigazete.gov.tr/eskiler/2026/10/20261022-6.pdf)
-- [Anayasa Mahkemesinin 24/2/2026 Tarihli ve 2020/9807 Başvuru Numaralı Kararı](https://www.resmigazete.gov.tr/eskiler/2026/10/20261022-7.pdf)
-- [Anayasa Mahkemesinin 5/3/2026 Tarihli ve 2021/7687 Başvuru Numaralı Kararı](https://www.resmigazete.gov.tr/eskiler/2026/10/20261022-8.pdf)
-- [Anayasa Mahkemesinin 5/3/2026 Tarihli ve 2023/59815 Başvuru Numaralı Kararı](https://www.resmigazete.gov.tr/eskiler/2026/10/20261022-9.pdf)
-- [Anayasa Mahkemesinin 2/4/2026 Tarihli ve 2021/40650 Başvuru Numaralı Kararı](https://www.resmigazete.gov.tr/eskiler/2026/10/20261022-10.pdf)
+**YARGI BÖLÜMÜ / YARGITAY KARARI**
+- [Yargıtay 4. Hukuk Dairesine Ait Karar](https://www.resmigazete.gov.tr/eskiler/2026/10/20261023-9.pdf)
 
 ## Kurum sayfaları
