@@ -1,85 +1,111 @@
 {
-  "tarih": "2026-10-23",
-  "olusturulma": "2026-10-23T10:15:36+03:00",
+  "tarih": "2026-10-24",
+  "olusturulma": "2026-10-24T10:03:53+03:00",
   "resmi_gazete": {
     "kaynak": "Resmî Gazete",
     "sayilar": [
       {
-        "tarih": "2026-10-23",
-        "url": "https://www.resmigazete.gov.tr/fihrist?tarih=2026-10-23",
+        "tarih": "2026-10-24",
+        "url": "https://www.resmigazete.gov.tr/fihrist?tarih=2026-10-24",
         "status": "ok",
-        "tarih_metni": "23 Ekim 2026",
-        "sayi": "33409",
+        "tarih_metni": "24 Ekim 2026",
+        "sayi": "33410",
         "items": [
           {
             "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
-            "tur": "CUMHURBAŞKANI KARARI",
-            "baslik": "Kamu Kurum ve Kuruluşlarının Ürettikleri Bazı Mal ve Hizmetlerden Ücretsiz veya İndirimli Olarak Faydalanacakların Tespitine İlişkin Karar (Karar Sayısı: 11919)",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261023-1.pdf",
+            "tur": "CUMHURBAŞKANI KARARLARI",
+            "baslik": "A. Gaffar Okkan Polis Meslek Yüksek Okulu Müdürlüğünün Adının Şehit Ali Gaffar Okkan Polis Meslek Yüksek Okulu Müdürlüğü Olarak Değiştirilmesi Hakkında Karar (Karar Sayısı: 11920)",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261024-1.pdf",
             "mukerrer": false,
             "anahtar_kelime": []
           },
           {
             "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
-            "tur": "HÂKİMLER VE SAVCILAR KURULU KARARI",
-            "baslik": "Hâkimler ve Savcılar Kurulu Genel Kurulunun 21/10/2026 Tarihli ve 1157-1158 Sayılı Kararı",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261023-2.pdf",
+            "tur": "CUMHURBAŞKANI KARARLARI",
+            "baslik": "Batman İli Şehir İçi Dereleri Planlama ve Proje Yapım İşi Kapsamındaki İluh Deresi By-Pass Hattı ile Çay Deresi Deplase Hattı Projesinin Gerçekleştirilmesi Amacıyla Bazı Taşınmazların Batman Belediye Başkanlığı Tarafından Acele Kamulaştırılması Hakkında Karar (Karar Sayısı: 11921)",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261024-2.pdf",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
+            "tur": "CUMHURBAŞKANI KARARLARI",
+            "baslik": "154 kV (Kızılırmak TM-Kırşehir TM) Brş.N-Alıç DGES TM (Girdi-Çıktı) Enerji İletim Hattı Projesi Kapsamında Bazı Taşınmazların Türkiye Elektrik İletim Anonim Şirketi Genel Müdürlüğü Tarafından Acele Kamulaştırılması Hakkında Karar (Karar Sayısı: 11922)",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261024-3.pdf",
+            "mukerrer": false,
+            "anahtar_kelime": [
+              "anonim şirket"
+            ]
+          },
+          {
+            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
+            "tur": "CUMHURBAŞKANI KARARLARI",
+            "baslik": "Van İli, İpekyolu İlçesi, Eskişehir Mahallesi Sınırları İçerisinde Belirlenen Rezerv Yapı Alanında Bulunan Bazı Taşınmazların “Eski Van Şehrini Canlandırma Projesi” Kapsamında Kentsel Dönüşüm Başkanlığı Tarafından Acele Kamulaştırılması Hakkında Karar (Karar Sayısı: 11923)",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261024-4.pdf",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
+            "tur": "CUMHURBAŞKANI KARARLARI",
+            "baslik": "İstanbul İli, Kartal İlçesi, Gümüşpınar Mahallesi Sınırları İçerisinde Bulunan Bazı Alanların Kentsel Dönüşüm ve Gelişim Proje Alanı İlan Edilmesi Hakkında Karar (Karar Sayısı: 11924)",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261024-5.pdf",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
+            "tur": "CUMHURBAŞKANI KARARLARI",
+            "baslik": "Kurtuluş Savaşındaki Hizmetleri Tespit Edilen Şehit ve Gazilerin Mirasçılarına “İstiklal Madalyası” Verilmesi Hakkında Karar (Karar Sayısı: 11925)",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261024-6.pdf",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
+            "tur": "CUMHURBAŞKANI KARARLARI",
+            "baslik": "Özelleştirme İdaresi Başkanlığı ile İlgili Karar (Karar Sayısı: 11926)",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261024-7.pdf",
             "mukerrer": false,
             "anahtar_kelime": []
           },
           {
             "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
             "tur": "YÖNETMELİKLER",
-            "baslik": "Başbakanlık Özel Çevre Koruma Kurumu Başkanlığı Yayın Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261023-3.htm",
+            "baslik": "Kurumlar Arası Geçici Görevlendirme Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik (Karar Sayısı: 11927)",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261024-8.pdf",
             "mukerrer": false,
             "anahtar_kelime": []
           },
           {
             "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
             "tur": "YÖNETMELİKLER",
-            "baslik": "Çanakkale Savaşları Gelibolu Tarihi Alanında Yapılaşmanın ve Yapıların Kullanımının Denetimi ile Kültür ve Tabiat Varlıklarını Koruma Komisyonunun Çalışma Usul ve Esaslarına İlişkin Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261023-4.htm",
+            "baslik": "Yataklı Tedavi Kurumları İşletme Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik (Karar Sayısı: 11928)",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261024-9.pdf",
             "mukerrer": false,
             "anahtar_kelime": []
           },
           {
             "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
             "tur": "YÖNETMELİKLER",
-            "baslik": "Çankaya Üniversitesi Ön Lisans ve Lisans Eğitim ve Öğretim Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261023-5.htm",
+            "baslik": "Altınbaş Üniversitesi Toplum, Kadın ve Aile Çalışmaları Uygulama ve Araştırma Merkezi Yönetmeliği",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261024-10.htm",
             "mukerrer": false,
             "anahtar_kelime": []
           },
           {
             "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
-            "tur": "YÖNETMELİKLER",
-            "baslik": "Fenerbahçe Üniversitesi Afrika Çalışmaları Uygulama ve Araştırma Merkezi Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261023-6.htm",
+            "tur": "KURUL KARARLARI",
+            "baslik": "Enerji Piyasası Düzenleme Kurulunun 22/10/2026 Tarihli ve 14982 Sayılı Kararı",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261024-11.pdf",
             "mukerrer": false,
             "anahtar_kelime": []
           },
           {
             "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
-            "tur": "YÖNETMELİKLER",
-            "baslik": "Fenerbahçe Üniversitesi Avrupa Çalışmaları Uygulama ve Araştırma Merkezi Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261023-7.htm",
-            "mukerrer": false,
-            "anahtar_kelime": []
-          },
-          {
-            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
-            "tur": "YÖNETMELİKLER",
-            "baslik": "Piri Reis Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim ve Sınav Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261023-8.htm",
-            "mukerrer": false,
-            "anahtar_kelime": []
-          },
-          {
-            "bolum": "YARGI BÖLÜMÜ",
-            "tur": "YARGITAY KARARI",
-            "baslik": "Yargıtay 4. Hukuk Dairesine Ait Karar",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261023-9.pdf",
+            "tur": "KURUL KARARLARI",
+            "baslik": "Enerji Piyasası Düzenleme Kurulunun 22/10/2026 Tarihli ve 14985 Sayılı Kararı",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261024-12.pdf",
             "mukerrer": false,
             "anahtar_kelime": []
           }
