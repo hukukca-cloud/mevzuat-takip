@@ -1,69 +1,37 @@
 {
-  "tarih": "2026-10-25",
-  "olusturulma": "2026-10-25T10:27:57+03:00",
+  "tarih": "2026-10-26",
+  "olusturulma": "2026-10-26T10:37:46+03:00",
   "resmi_gazete": {
     "kaynak": "Resmî Gazete",
     "sayilar": [
       {
-        "tarih": "2026-10-25",
-        "url": "https://www.resmigazete.gov.tr/fihrist?tarih=2026-10-25",
+        "tarih": "2026-10-26",
+        "url": "https://www.resmigazete.gov.tr/fihrist?tarih=2026-10-26",
         "status": "ok",
-        "tarih_metni": "25 Ekim 2026",
-        "sayi": "33411",
+        "tarih_metni": "26 Ekim 2026",
+        "sayi": "33412",
         "items": [
           {
             "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
             "tur": "YÖNETMELİKLER",
-            "baslik": "Gaziantep İslam Bilim ve Teknoloji Üniversitesi Diş Hekimliği Fakültesi Eğitim-Öğretim ve Sınav Yönetmeliği",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261025-1.htm",
+            "baslik": "Bingöl Üniversitesi Biyoteknoloji Uygulama ve Araştırma Merkezi Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261026-1.htm",
             "mukerrer": false,
             "anahtar_kelime": []
           },
           {
             "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
             "tur": "YÖNETMELİKLER",
-            "baslik": "Hacettepe Üniversitesi Lisansüstü Eğitim-Öğretim ve Sınav Yönetmeliği",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261025-2.htm",
+            "baslik": "Bingöl Üniversitesi Proje Koordinasyon Uygulama ve Araştırma Merkezi Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261026-2.htm",
             "mukerrer": false,
             "anahtar_kelime": []
           },
           {
             "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
-            "tur": "TEBLİĞLER",
-            "baslik": "2026 Yılı Eylül Ayına Ait Dahilde İşleme İzin Belgelerinin (D1) Listesi",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261025-3.pdf",
-            "mukerrer": false,
-            "anahtar_kelime": []
-          },
-          {
-            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
-            "tur": "TEBLİĞLER",
-            "baslik": "2026 Yılı Eylül Ayına Ait Yurt İçi Satış ve Teslim Belgelerinin (D3) Listesi",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261025-4.pdf",
-            "mukerrer": false,
-            "anahtar_kelime": []
-          },
-          {
-            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
-            "tur": "TEBLİĞLER",
-            "baslik": "2026 Yılı Eylül Ayına Ait Hariçte İşleme İzin Belgelerinin (H1) Listesi",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261025-5.pdf",
-            "mukerrer": false,
-            "anahtar_kelime": []
-          },
-          {
-            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
-            "tur": "TEBLİĞLER",
-            "baslik": "2026 Yılı Eylül Ayına Ait Firma Talebine İstinaden İptal Edilen Dahilde İşleme İzin Belgeleri Listesi",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261025-6.pdf",
-            "mukerrer": false,
-            "anahtar_kelime": []
-          },
-          {
-            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
-            "tur": "TEBLİĞLER",
-            "baslik": "2026 Yılı Eylül Ayına Ait Resen İptal Edilen Dahilde İşleme İzin Belgeleri Listesi",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261025-7.pdf",
+            "tur": "YÖNETMELİKLER",
+            "baslik": "Bingöl Üniversitesi Sosyal ve Ekonomik Çalışmalar Uygulama ve Araştırma Merkezi Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261026-3.htm",
             "mukerrer": false,
             "anahtar_kelime": []
           }
