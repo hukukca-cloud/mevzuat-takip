@@ -1,37 +1,61 @@
 {
-  "tarih": "2026-10-26",
-  "olusturulma": "2026-10-26T10:37:46+03:00",
+  "tarih": "2026-10-27",
+  "olusturulma": "2026-10-27T10:35:33+03:00",
   "resmi_gazete": {
     "kaynak": "Resmî Gazete",
     "sayilar": [
       {
-        "tarih": "2026-10-26",
-        "url": "https://www.resmigazete.gov.tr/fihrist?tarih=2026-10-26",
+        "tarih": "2026-10-27",
+        "url": "https://www.resmigazete.gov.tr/fihrist?tarih=2026-10-27",
         "status": "ok",
-        "tarih_metni": "26 Ekim 2026",
-        "sayi": "33412",
+        "tarih_metni": "27 Ekim 2026",
+        "sayi": "33413",
         "items": [
           {
-            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
-            "tur": "YÖNETMELİKLER",
-            "baslik": "Bingöl Üniversitesi Biyoteknoloji Uygulama ve Araştırma Merkezi Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261026-1.htm",
+            "bolum": "YASAMA BÖLÜMÜ",
+            "tur": "KANUN",
+            "baslik": "7596 Tasfiyesine Karar Verilen Bazı Yatırım Fonları Hakkında Kanun",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261027-0.htm",
             "mukerrer": false,
             "anahtar_kelime": []
           },
           {
             "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
             "tur": "YÖNETMELİKLER",
-            "baslik": "Bingöl Üniversitesi Proje Koordinasyon Uygulama ve Araştırma Merkezi Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261026-2.htm",
+            "baslik": "Jandarma ve Sahil Güvenlik Akademisi Güvenlik Bilimleri Enstitüsü Kuruluş, Görev ve Çalışma Esasları ile Lisansüstü Eğitim Öğretim Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261027-1.htm",
             "mukerrer": false,
             "anahtar_kelime": []
           },
           {
             "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
             "tur": "YÖNETMELİKLER",
-            "baslik": "Bingöl Üniversitesi Sosyal ve Ekonomik Çalışmalar Uygulama ve Araştırma Merkezi Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261026-3.htm",
+            "baslik": "Konutların Turizm Amaçlı Kiralanması Faaliyetlerinin Düzenlenmesine İlişkin Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261027-2.htm",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
+            "tur": "YÖNETMELİKLER",
+            "baslik": "Kültür ve Tabiat Varlıklarını Koruma Kanunu Kapsamında Kültür ve Turizm Bakanlığına Yapılacak Başvurular ile Sunulacak Hizmetler Karşılığı Alınacak Bedellere İlişkin Usul ve Esaslar Hakkında Yönetmelik",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261027-3.htm",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
+            "tur": "YÖNETMELİKLER",
+            "baslik": "Bilgilendirilmiş Rızanın Elektronik Ortamda Alınması Hakkında Yönetmelik",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261027-4.htm",
+            "mukerrer": false,
+            "anahtar_kelime": []
+          },
+          {
+            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
+            "tur": "YÖNETMELİKLER",
+            "baslik": "Tersane, Tekne İmal ve Çekek Yeri Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261027-5.htm",
             "mukerrer": false,
             "anahtar_kelime": []
           }
