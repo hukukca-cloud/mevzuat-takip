@@ -1,61 +1,29 @@
 {
-  "tarih": "2026-10-27",
-  "olusturulma": "2026-10-27T10:35:33+03:00",
+  "tarih": "2026-10-28",
+  "olusturulma": "2026-10-28T11:07:46+03:00",
   "resmi_gazete": {
     "kaynak": "Resmî Gazete",
     "sayilar": [
       {
-        "tarih": "2026-10-27",
-        "url": "https://www.resmigazete.gov.tr/fihrist?tarih=2026-10-27",
+        "tarih": "2026-10-28",
+        "url": "https://www.resmigazete.gov.tr/fihrist?tarih=2026-10-28",
         "status": "ok",
-        "tarih_metni": "27 Ekim 2026",
-        "sayi": "33413",
+        "tarih_metni": "28 Ekim 2026",
+        "sayi": "33414",
         "items": [
           {
-            "bolum": "YASAMA BÖLÜMÜ",
-            "tur": "KANUN",
-            "baslik": "7596 Tasfiyesine Karar Verilen Bazı Yatırım Fonları Hakkında Kanun",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261027-0.htm",
+            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
+            "tur": "YÖNETMELİKLER",
+            "baslik": "Binalar ile Yerleşmeler İçin Yeşil Sertifika Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261028-1.htm",
             "mukerrer": false,
             "anahtar_kelime": []
           },
           {
             "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
             "tur": "YÖNETMELİKLER",
-            "baslik": "Jandarma ve Sahil Güvenlik Akademisi Güvenlik Bilimleri Enstitüsü Kuruluş, Görev ve Çalışma Esasları ile Lisansüstü Eğitim Öğretim Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261027-1.htm",
-            "mukerrer": false,
-            "anahtar_kelime": []
-          },
-          {
-            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
-            "tur": "YÖNETMELİKLER",
-            "baslik": "Konutların Turizm Amaçlı Kiralanması Faaliyetlerinin Düzenlenmesine İlişkin Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261027-2.htm",
-            "mukerrer": false,
-            "anahtar_kelime": []
-          },
-          {
-            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
-            "tur": "YÖNETMELİKLER",
-            "baslik": "Kültür ve Tabiat Varlıklarını Koruma Kanunu Kapsamında Kültür ve Turizm Bakanlığına Yapılacak Başvurular ile Sunulacak Hizmetler Karşılığı Alınacak Bedellere İlişkin Usul ve Esaslar Hakkında Yönetmelik",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261027-3.htm",
-            "mukerrer": false,
-            "anahtar_kelime": []
-          },
-          {
-            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
-            "tur": "YÖNETMELİKLER",
-            "baslik": "Bilgilendirilmiş Rızanın Elektronik Ortamda Alınması Hakkında Yönetmelik",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261027-4.htm",
-            "mukerrer": false,
-            "anahtar_kelime": []
-          },
-          {
-            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
-            "tur": "YÖNETMELİKLER",
-            "baslik": "Tersane, Tekne İmal ve Çekek Yeri Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261027-5.htm",
+            "baslik": "İstanbul Üniversitesi Doğal Kaynaklardan İlaç Geliştirme Uygulama ve Araştırma Merkezi Yönetmeliği",
+            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261028-2.htm",
             "mukerrer": false,
             "anahtar_kelime": []
           }
