@@ -1,33 +1,14 @@
 {
-  "tarih": "2026-10-28",
-  "olusturulma": "2026-10-28T11:07:46+03:00",
+  "tarih": "2026-10-29",
+  "olusturulma": "2026-10-29T11:16:22+03:00",
   "resmi_gazete": {
     "kaynak": "Resmî Gazete",
     "sayilar": [
       {
-        "tarih": "2026-10-28",
-        "url": "https://www.resmigazete.gov.tr/fihrist?tarih=2026-10-28",
-        "status": "ok",
-        "tarih_metni": "28 Ekim 2026",
-        "sayi": "33414",
-        "items": [
-          {
-            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
-            "tur": "YÖNETMELİKLER",
-            "baslik": "Binalar ile Yerleşmeler İçin Yeşil Sertifika Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261028-1.htm",
-            "mukerrer": false,
-            "anahtar_kelime": []
-          },
-          {
-            "bolum": "YÜRÜTME VE İDARE BÖLÜMÜ",
-            "tur": "YÖNETMELİKLER",
-            "baslik": "İstanbul Üniversitesi Doğal Kaynaklardan İlaç Geliştirme Uygulama ve Araştırma Merkezi Yönetmeliği",
-            "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261028-2.htm",
-            "mukerrer": false,
-            "anahtar_kelime": []
-          }
-        ],
+        "tarih": "2026-10-29",
+        "url": "https://www.resmigazete.gov.tr/fihrist?tarih=2026-10-29",
+        "status": "bos_veya_ayristirilamadi",
+        "items": [],
         "notes": []
       }
     ]
